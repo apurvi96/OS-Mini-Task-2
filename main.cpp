@@ -26,9 +26,7 @@ if(!f)
 return -1;
 
 while(fgets(ll,400,f))
-{
-	cout<<"1.executable path:"<<ll<<"\n";
-}
+{cout<<"1.executable path:"<<ll<<"\n";}
 
 fclose(f);
 
