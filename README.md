@@ -9,7 +9,8 @@ wait, Z for zombie, T for traced or stopped
 5. Environment variable details
 6. File descriptors opened and associated with process.
 7. Process root folder.
-<br>And also print the following system stats (not limited to) :
-1. total number of context switches across all CPUs
-2. number of processes currently running on CPUs.
-3. number of processes currently blocked, waiting for I/O to complete.
+<br><br>And also print the following system stats (not limited to) :
+<ol>
+<li>total number of context switches across all CPUs
+<li>number of processes currently running on CPUs.
+<li>number of processes currently blocked, waiting for I/O to complete.</ol>
